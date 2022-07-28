@@ -1,0 +1,43 @@
+.top0{
+    float: none;
+    /*position:absolute*/
+    background-color: black;
+}
+a {
+    
+    text-decoration: none;
+    display: inline-block;
+    /**/
+    padding: 16px;
+    color: yellow;
+    overflow: hidden;
+    background-color: black;
+    margin: 0px;
+}
+.pad-five{padding: 5px;
+background-color: black;
+}
+
+
+.st-ul{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    margin: 0%;
+}
+.float-left{
+    float:left;
+}
+
+a:hover{
+    background-color: grey;
+}
+body{
+    background-color:antiquewhite
+}
+
+.block{
+    display: block;
+}
